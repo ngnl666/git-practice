@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
-  <div>123</div>
+  <div>1234</div>
   <router-view />
 </template>
 
