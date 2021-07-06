@@ -5,6 +5,7 @@
   </div>
   <div>1234</div>
   <div>999</div>
+  <div>hi~~</div>
   <router-view />
 </template>
 
